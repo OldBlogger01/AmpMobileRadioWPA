@@ -16,6 +16,6 @@
 "start_url": "https://amp-radiomobile.blogspot.com",
 "background_color": "#222325",
 "display": "standalone",
-"scope": "/",
+"scope": "https://amp-radiomobile.blogspot.com/",
 "theme_color": "#222325"
 }
