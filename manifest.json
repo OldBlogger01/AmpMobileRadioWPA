@@ -3,12 +3,12 @@
 "name": "Amp Mobile Radio",
 "icons": [
 {
-"src": "./images/amplogo192.png",
+"src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-192x192.png",
 "type": "image/png",
 "sizes": "192x192"
 },
 {
-"src": "./images/amplogo512.png",
+"src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-512x512.png",
 "type": "image/png",
 "sizes": "512x512"
 }
