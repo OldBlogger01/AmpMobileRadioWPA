@@ -30,12 +30,12 @@
   "screenshots": [
     {
       "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Wide-Screen-Desctop.png",
-      "sizes": "1280x800",
+      "sizes": "1920x1080",
       "type": "image/png"
     },
     {
       "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Mobile-Screen.png",
-      "sizes": "750x1334",
+      "sizes": "401x834",
       "type": "image/png"
     }
   ]
