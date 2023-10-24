@@ -13,13 +13,13 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://amp-radiomobile.blogspot.com",
+  "start_url": "https://amp-radiomobile.blogspot.com/?homescreen=1",
   "background_color": "#222325",
   "display": "standalone",
   "scope": "https://amp-radiomobile.blogspot.com/",
   "theme_color": "#222325",
   "description": "Accelerated Mobile Friendly Radio Pages Including News and Music.",
-  "id": "ampmobileradio",
+  "id": "/?homescreen=1",
   "lang": "en",
   "orientation": "landscape",
   "display_override": [
