@@ -19,7 +19,7 @@
   "scope": "https://amp-radiomobile.blogspot.com/",
   "theme_color": "#222325",
   "description": "Accelerated Mobile Friendly Radio Pages Including News and Music.",
-  "id": "/?homescreen=1",
+  "id": "https://amp-radiomobile.blogspot.com/?homescreen=1",
   "lang": "en",
   "orientation": "landscape",
   "display_override": [
