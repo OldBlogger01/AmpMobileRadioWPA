@@ -19,7 +19,7 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "data:blog.canonicalUrl/?homescreen=1",
+  "start_url": "https://amp-radiomobile.blogspot.com/?homescreen=1",
   "background_color": "#222325",
   "display": "standalone",
   "scope": "https://amp-radiomobile.blogspot.com/",
