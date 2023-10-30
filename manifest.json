@@ -37,7 +37,7 @@
     {
       "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Wide-Screen-Desctop.png",
       "sizes": "1920x1080",
-      "type": "image/png"
+      "type": "image/png",
       "form_factor": "wide",
     },
     {
