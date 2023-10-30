@@ -12,17 +12,13 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-{
-  "icons": [
-   {
+       {
       "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/icon-196x196.png",
       "sizes": "196x196",
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ] 
-}
+  ],
   "start_url": "https://amp-radiomobile.blogspot.com/?homescreen=1",
   "background_color": "#222325",
   "display": "standalone",
