@@ -27,7 +27,7 @@
   "description": "Accelerated Mobile Friendly Radio Pages Including News and Music.",
   "id": "https://amp-radiomobile.blogspot.com/?homescreen=1",
   "lang": "en",
-  "orientation": "landscape",
+  "orientation": "any",
   "display_override": [
     "standalone",
     "browser",
