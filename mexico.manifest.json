@@ -1,6 +1,6 @@
 {
-  "short_name": "USAandMexicoRadio",
-  "name": "USA and Mexico Radio",
+  "short_name": "USA&MexicoRadios",
+  "name": "Usa and Mexico Radios",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-192x192.png",
@@ -11,20 +11,40 @@
       "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/icon-196x196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
-  "start_url": "https://mexico-radios.blogspot.com",
+  "start_url": "https://mexico-radios.blogspot.com/?homescreen=1",
   "background_color": "#222325",
   "display": "standalone",
-  "scope": "https://mexico-radios.blogspot.com",
+  "scope": "https://mexico-radios.blogspot.com/",
   "theme_color": "#222325",
   "description": "Accelerated Mobile Friendly Radio Pages Including News and Music.",
-  "id": "USAandMexicoRadio",
+  "id": "https://mexico-radios.blogspot.com/?homescreen=1",
   "lang": "en",
-  "orientation": "natural",
+  "orientation": "any",
   "display_override": [
     "standalone",
     "browser",
     "window-controls-overlay"
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Wide-Screen-Desctop.png",
+      "sizes": "1920x1080",
+      "form_factor": "wide",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Mobile-Screen.png",
+      "sizes": "401x834",
+      "type": "image/png"
+    }
   ]
 }
+
