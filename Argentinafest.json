@@ -1,26 +1,49 @@
 {
-  "short_name": "Video-Syntages",
-  "name": "VideoSyntages - Cooking Recipes",
+  "short_name": "ArgentinaRadios",
+  "name": "Argentina Radios",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Agora-Image-192.png",
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-192x192.png",
       "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "any"
+      "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Agora-Image-512.png",
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-512x512.png",
       "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "maskable"
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/icon-196x196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
-  "start_url": "https://video-syntages.blogspot.com/?homescreen=1",
+  "start_url": "https://radioinargentina.blogspot.com/?homescreen=1",
   "background_color": "#222325",
   "display": "standalone",
-  "scope": "https://video-syntages.blogspot.com/",
+  "scope": "https://radioinargentina.blogspot.com/",
   "theme_color": "#222325",
-  "description": "Discover the best cooking recipes and culinary news.",
-  "lang": "el-GR",
-  "orientation": "any"
+  "description": "Argentina Mobile Friendly Radio Pages Including News and Music.",
+  "id": "https://radioinargentina.blogspot.com/?homescreen=1",
+  "lang": "en",
+  "orientation": "any",
+  "display_override": [
+    "standalone",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Wide-Screen-Desctop.png",
+      "sizes": "1920x1080",
+      "form_factor": "wide",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Mobile-Screen.png",
+      "sizes": "401x834",
+      "type": "image/png"
+    }
+  ]
 }
